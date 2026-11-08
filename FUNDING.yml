@@ -1,0 +1,11 @@
+# Funding links for every Triodian repository that has Sponsorships turned on
+# and no FUNDING.yml of its own. GitHub reads this file from the root of the
+# public Triodian/.github repository.
+
+# Triodian's GitHub Sponsors profile. This works only once GitHub has
+# approved the organisation for Sponsors.
+github: Triodian
+
+# Up to four other links, for example a support page on triodian.com.
+# Uncomment and set the address once the page exists.
+# custom: ["hhttps://triodian.com/support-the-project"]
