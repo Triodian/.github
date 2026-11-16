@@ -39,6 +39,10 @@ The next software step, in development, checks AI output against the decisions a
 
 Software checks can be switched off by anyone with enough access. For the uses where that is not acceptable, the same checks move into dedicated hardware, so a forbidden action cannot be emitted at all. This is the assurance ceiling the services and software lead up to, and it is in design.
 
+## Roadmap
+
+What comes next, in order, each waiting on a stated condition rather than a date: an **AI Incident Accountability** module in AI Use Assessment (a readiness record and evidence-preservation hold for each AI arrangement, and a facilitated tabletop), then a separate incident app if the tabletops sell; self-service entry; GRC and board-portal integrations; and the next jurisdictions after Australia, the United States and Singapore: the European Union, the United Kingdom and Canada, then deployment into a client's own AWS, Azure or Google Cloud account, then seven more jurisdictions in order of sponsor likelihood. The one source is [docs.triodian.com/roadmap](https://docs.triodian.com/roadmap); what has shipped is on [triodian.com/status](https://triodian.com/status).
+
 ## Open source
 
 The apps, the metamodel and the protocol are released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), including the framework text and the Atlas records. Third-party sources cited in Atlas records keep their own terms. The Triodian name and logo are trademarks and are not covered by the licence.
